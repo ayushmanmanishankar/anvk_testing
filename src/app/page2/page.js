@@ -23,11 +23,11 @@ export default function Home() {
           <li className="tracking-[-.01em]" avk-only-nmt="true">
             Save and see your changes instantly.
           </li>
-          <li className="mt-2 tracking-[-.01em]" avk-only-nmt="true">
+          <li className="mt-2 tracking-[-.01em]">
             Explore the Next.js 14 documentation to learn more about the new
             features.
           </li>
-          <li className="mt-2 tracking-[-.01em]" avk-only-nmt="true">
+          <li className="mt-2 tracking-[-.01em]">
             App will automatically reload as you edit the code.
           </li>
         </ol>
@@ -38,12 +38,6 @@ export default function Home() {
           </li>
           <li className="tracking-[-.01em]">
             Content 2
-          </li>
-        </ol>
-
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mt-2 tracking-[-.01em]" avk-only-nmt="true">
-            App will automatically reload as you edit the code.
           </li>
         </ol>
 
