@@ -113,6 +113,12 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+        <p avk-only-nmt="true">
+          Multi Page Content 1
+        </p>
+        <p>
+          Multi Page Content 2
+        </p>
       </footer>
     </div>
   );
