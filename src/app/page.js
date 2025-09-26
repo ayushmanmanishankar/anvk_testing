@@ -42,7 +42,7 @@ export default function Home() {
         </ol>
 
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mt-2 tracking-[-.01em]" avk-only-nmt="true">
+          <li className="mt-2 tracking-[-.01em]">
             App will automatically reload as you edit the code.
           </li>
         </ol>
