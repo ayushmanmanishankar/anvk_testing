@@ -119,6 +119,9 @@ export default function Home() {
         <p>
           Multi Page Content 2
         </p>
+        <p>
+          Multi Page Content 3
+        </p>
       </footer>
     </div>
   );
